@@ -1,1 +1,1 @@
-# parallax-scrolling
+Parallax scrolling with different fruits

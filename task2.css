@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body, html {
+    font-family: 'Segoe UI', sans-serif;
+    overflow-x: hidden;
+  }
+  .layer-1{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.5);
+    font-size: 4rem;
+    font-weight: bold;
+  }
+  .parallax {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.5);
+    font-size: 4rem;
+    font-weight: bold;
+  }
+  .color-section {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 2rem;
+    padding: 2rem;
+    text-align: center;
+  }
+  
