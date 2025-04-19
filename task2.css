@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   body, html {
-    font-family: 'Segoe UI', sans-serif;
+    font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
     overflow-x: hidden;
   }
   .layer-1{
@@ -21,7 +21,7 @@
     font-weight: bold;
   }
   .parallax {
-    height: 100vh;
+    height: 90vh;
     background-size: cover;
     background-position: center;
     background-attachment: scroll;
@@ -34,7 +34,7 @@
     font-weight: bold;
   }
   .color-section {
-    height: 50vh;
+    height: 60vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -42,5 +42,6 @@
     font-size: 2rem;
     padding: 2rem;
     text-align: center;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.5)
   }
   
